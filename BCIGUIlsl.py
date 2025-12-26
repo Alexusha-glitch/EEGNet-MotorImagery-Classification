@@ -4,7 +4,7 @@ import pandas as pd
 from BCITesting import EEGNet
 import torch
 
-IP = "127.0.0.1" # localhost, refers to this own computer
+IP = "127.0.0.1" # localhost, refers to itself
 PORT = 12345
 N_CH = 16
 
